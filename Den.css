@@ -39,29 +39,6 @@ background: #460e17; }
  
 /* HEADERS - Can remove the H1 “Before” if they don’t want a den title, H3 is the default text */
 
-h1 {
-color: transparent !important;
-font-size: 0px !important;
-text-align: center !important;
-position: relative !important;}
-
-h1::before {
-content: "X’s DEN" !important;
-color: #1e1916
-font-family: Cinzel, serif !important;
-font-size: 34px !important;
-font-weight: 900 !important;
-letter-spacing: -0.5px !important;
-
-background: linear-gradient(180deg, #352526 0%, #774d54 100%) !important;
--webkit-background-clip: text !important;
-background-clip: text !important;
--webkit-text-fill-color: transparent !important;
--webkit-text-stroke: 1px #1e1916 !important;
-filter: drop-shadow(1px 5px 2px rgba(0, 0, 0, 0.9)) !important;
-
-}
-
 h2 {
 color: #e6cacf !important;
 font-size: 24px;}
