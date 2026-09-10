@@ -595,7 +595,7 @@ img[src*="beetle"]:hover, img[src*="gb.png"]:hover, img[src*="sb.png"]:hover {
 div.cave-grid>img {
 content: url('https://i.postimg.cc/66MGy1XZ/image.png')!important;
 object-fit: cover !important;
-object-position: center 20% !important;
+object-position: center 40% !important;
 width: 100% !important;
 height: 120px !important;
 }
