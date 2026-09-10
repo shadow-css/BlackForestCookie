@@ -609,11 +609,12 @@ height: 70px !important;
 }
 
 a[href="cave.php?id=347311"] div.cave-grid>img {
-content: url('https://i.postimg.cc/66MGy1XZ/image.png')!important;
+content: url('https://i.postimg.cc/pd24TTxz/image.png')!important;
 object-fit: cover !important;
 object-position: center 20% !important;
 width: 100% !important;
 height: 120px !important;
+}
 
 a[href="cave.php?id=193301"] div.cave-grid>img {
 content: url('https://i.postimg.cc/pd24TTxz/image.png')!important;
@@ -621,6 +622,7 @@ object-fit: cover !important;
 object-position: center 20% !important;
 width: 100% !important;
 height: 120px !important;
+}
 
 
 
